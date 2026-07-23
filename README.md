@@ -4,8 +4,8 @@ I'm currently a Web Developer at the Indigo Magazine and an AI/ML Fellow at BTT 
 
 I am passionate about leveraging machine learning, data science, and software engineering to build technology that creates a meaningful impact.
 
-Email: afraibnat91@gmail.com
-LinkedIn: https://www.linkedin.com/in/afraibnat-/
+- Email: afraibnat91@gmail.com
+- LinkedIn: https://www.linkedin.com/in/afraibnat-/
 
 <!--
 **afraibnat/afraibnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
