@@ -1,6 +1,6 @@
 Hello, I'm Afra Ibnat. I'm studying Computer Science and Data Science at the University of Texas at Dallas. 
 
-I'm currently a Web Developer at the Indigo Magazine and an AI/ML Fellow at BTT Cornell Tech. 
+I'm an AI/ML Fellow at BTT Cornell Tech and a Web Developer at the Indigo Magazine.
 
 I am passionate about leveraging machine learning, data science, and software engineering to build technology that creates a meaningful impact.
 
