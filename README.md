@@ -7,7 +7,8 @@ At my university, I am currently a **Web Developer** for the [Indigo Magazine](h
 **Languages & Web Technologies**: Python, R, Java, C++, HTML, CSS, JavaScript, TypeScript,\
 **Frameworks**: React, Vue.js, Svelte\
 **Data Science & ML**: Pandas, NumPy, scikit-learn, Matplotlib\
-**Tools**: Jupyter Notebook, WordPress, Figma, SQLite
+**Databases**: SQLite\
+**Tools & Platforms**: Jupyter Notebook, RStudio, Google Colab, WordPress, Figma
 <!--
 **afraibnat/afraibnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
