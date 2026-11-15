@@ -1,14 +1,16 @@
-# 👋 Hi, I'm Afra Ibnat
+# 🐱 Hi, I'm Afra Ibnat
 I'm a Computer Science and Data Science student at the University of Texas at Dallas. My work includes **web development**, **data science**, and **machine learning**. I'm interested in building tools to that help people access, analyze, and understand information. I'm currently a **Break Through Tech AI Fellow**, receiving industry mentorship and portfolio development by applying Python and machine learning to real-world classification problems.
 
 At my university, I am currently a **Web Developer** for the [Indigo Magazine](https://indigomagazinetx.com/) and an **Assistant Web Editor** for [The Retrograde](https://retrogradenews.com/).
 
 # Technical Skills
-**Languages & Web Technologies**: Python, R, Java, C++, HTML, CSS, JavaScript, TypeScript,\
-**Frameworks**: React, Vue.js, Svelte\
-**Data Science & ML**: Pandas, NumPy, scikit-learn, Matplotlib\
-**Databases**: SQLite\
-**Tools & Platforms**: Jupyter Notebook, RStudio, Google Colab, WordPress, Figma
+- **Languages & Web Technologies**: Python, R, Java, C++, HTML/CSS, Tailwind CSS, JavaScript, TypeScript,\
+- **Frameworks**: React, Vue.js, Svelte\
+- **Data Science & ML**: Pandas, NumPy, scikit-learn, Matplotlib\
+- **Databases**: SQLite\
+- **Tools & Platforms**: Jupyter Notebook, RStudio, Google Colab, WordPress, Figma
+
+
 <!--
 **afraibnat/afraibnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
