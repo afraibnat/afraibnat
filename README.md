@@ -4,10 +4,10 @@ I'm a Computer Science and Data Science student at the University of Texas at Da
 At my university, I am currently a **Web Developer** for the [Indigo Magazine](https://indigomagazinetx.com/) and an **Assistant Web Editor** for [The Retrograde](https://retrogradenews.com/).
 
 # Technical Skills
-**Languages & Web Technologies**: Python, R, Java, C++, HTML, CSS, JavaScript, TypeScript, 
-**Frameworks**: React, Vue.js, Svelte
-**Data Science & ML**: Pandas, NumPy, scikit-learn, Matplotlib
-**Tools**: Jupyter Notebook, WordPress, Figma, SQLite
+**Languages & Web Technologies**: Python, R, Java, C++, HTML, CSS, JavaScript, TypeScript,\
+**Frameworks**: React, Vue.js, Svelte\
+**Data Science & ML**: Pandas, NumPy, scikit-learn, Matplotlib\
+**Tools**: Jupyter Notebook, WordPress, Figma, SQLite\
 <!--
 **afraibnat/afraibnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
