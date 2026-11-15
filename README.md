@@ -17,6 +17,9 @@ A mobile application designed to encourage consistent daily reading and learning
 🏛️ [**McKinney Public Library Foundation - Donor & Grant Tracker**](https://github.com/UTDallasEPICS/mckinney-library-foundation):
 A web application to help the McKinney Public Library Foundation board manage donors, donations, grants, and events through a centralized tracking system with role-based access and data management capabilities. `Vue.js` `Nuxt` `TypeScript` `SQLite` `Prisma` `Tailwind CSS`
 
+📊 [**The Story of Black Businesses: Through a Pandemic Lens**](https://github.com/afraibnat/afra-bwdc-challenge):
+An interactive 'scrollytelling' website with Svelte, using real-world data from the Black Wealth Data Center to narratively and visually explore United States Black business ownership and racial wealth disparities. My goal was to conduct thorough research to combine interactive web design and data visualizations to tell a story. I was selected for the Kode With Klossy x Bloomberg x BWDC Data Scrollytelling Challenge in the **Built for Everyone: Most Accessible Piece** category for clear language, inclusive design, and thoughtful data presentation. `Svelte` `JavaScript` `Data Visualization` `Scrollytelling`
+
 
 <!--
 **afraibnat/afraibnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
