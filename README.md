@@ -4,10 +4,10 @@ I'm a Computer Science and Data Science student at the University of Texas at Da
 At my university, I am currently a **Web Developer** for the [Indigo Magazine](https://indigomagazinetx.com/) and an **Assistant Web Editor** for [The Retrograde](https://retrogradenews.com/).
 
 # Technical Skills
-- **Languages & Web Technologies**: Python, R, Java, C++, HTML/CSS, Tailwind CSS, JavaScript, TypeScript,\
-- **Frameworks**: React, Vue.js, Svelte\
-- **Data Science & ML**: Pandas, NumPy, scikit-learn, Matplotlib\
-- **Databases**: SQLite\
+- **Languages & Web Technologies**: Python, R, Java, C++, HTML/CSS, Tailwind CSS, JavaScript, TypeScript
+- **Frameworks**: React, Vue.js, Svelte
+- **Data Science & ML**: Pandas, NumPy, scikit-learn, Matplotlib
+- **Databases**: SQLite
 - **Tools & Platforms**: Jupyter Notebook, RStudio, Google Colab, WordPress, Figma
 
 
