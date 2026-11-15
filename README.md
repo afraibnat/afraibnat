@@ -19,7 +19,7 @@ At my university, I am a **Web Developer** for the [Indigo Magazine](https://ind
 
 📊 [**The Story of Black Businesses: Through a Pandemic Lens**](https://github.com/afraibnat/afra-bwdc-challenge) - An interactive 'scrollytelling' website with Svelte, using real-world data from the Black Wealth Data Center to narratively and visually explore United States Black business ownership and racial wealth disparities. I was selected for the Kode With Klossy x Bloomberg x BWDC Data Scrollytelling Challenge in the **Built for Everyone: Most Accessible Piece** category for clear language, inclusive design, and thoughtful data presentation. `Svelte` `JavaScript` `Data Visualization` `Scrollytelling`
 
-📚 [**IntellectInk**](https://github.com/acm-projects/Intellect-Ink) - A mobile application designed to encourage consistent daily reading and learning through personalized, bite-sized content, including news articles, poems, books, and research based on users' interest. `React Native` `JavaScript` `Node.js` `Express` `MongoDB`
+📚 [**Intellect Ink**](https://github.com/acm-projects/Intellect-Ink) - A mobile application designed to encourage consistent daily reading and learning through personalized, bite-sized content, including news articles, poems, books, and research based on users' interest. `React Native` `JavaScript` `Node.js` `Express` `MongoDB`
 
 
 <!--
