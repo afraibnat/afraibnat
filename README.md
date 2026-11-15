@@ -1,13 +1,5 @@
-# Hi, I'm Afra Ibnat. 
-I'm studying Computer Science and Data Science at the University of Texas at Dallas. 
-
-# About Me
-I'm currently an AI/ML Fellow at BTT Cornell Tech and a Web Developer at the Indigo Magazine.
-
-I am passionate about leveraging machine learning, data science, and software engineering to build technology that creates a meaningful impact.
-
-- Email: afraibnat91@gmail.com
-- LinkedIn: https://www.linkedin.com/in/afraibnat-/
+# Hi, I'm Afra Ibnat 👋
+I'm a Computer Science and Data Science student at the University of Texas at Dallas. My work includes **web development**, **data science**, and **machine learning**. I'm interested in building tools to that help people access, analyze, and understand information. I'm currently a Break Through Tech AI Fellow, receiving industry mentorship and portfolio development by applying Python and machine learning to real-world classification problems.
 
 <!--
 **afraibnat/afraibnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
