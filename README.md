@@ -11,11 +11,11 @@ At my university, I am a **Web Developer** for the [Indigo Magazine](https://ind
 - **Tools & Platforms**: Jupyter Notebook, RStudio, Google Colab, WordPress, Figma
 
 ## Projects
-[**IntellectInk**](https://github.com/acm-projects/Intellect-Ink):
-A mobile application designed to encourage consistent daily reading and learning through personalized, bite-sized content, including news articles, poems, books, and research based on users' interest.
+📚 [**IntellectInk**](https://github.com/acm-projects/Intellect-Ink):
+A mobile application designed to encourage consistent daily reading and learning through personalized, bite-sized content, including news articles, poems, books, and research based on users' interest. `React Native` `JavaScript` `Node.js` `Express` `MongoDB`
 
-[**McKinney Public Library Foundation - Donor & Grant Tracker**](https://github.com/UTDallasEPICS/mckinney-library-foundation):
-A web application to help the McKinney Public Library Foundation manage donors, donations, grants, and events through a centralized tracking system with role-based access and data managment capabilities.
+🏛️ [**McKinney Public Library Foundation - Donor & Grant Tracker**](https://github.com/UTDallasEPICS/mckinney-library-foundation):
+A web application to help the McKinney Public Library Foundation board manage donors, donations, grants, and events through a centralized tracking system with role-based access and data management capabilities. `Vue.js` `Nuxt` `TypeScript` `SQLite` `Prisma` `Tailwind CSS`
 
 
 <!--
