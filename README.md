@@ -3,7 +3,7 @@ I'm a Computer Science and Data Science student at the University of Texas at Da
 
 I'm currently a **Break Through Tech ML/AI Fellow** receiving industry mentorship and portfolio development by applying Python and machine learning to real-world classification problems.
 
-At my university, I am a **Web Developer** for the [Indigo Magazine](https://indigomagazinetx.com/), a student-run creative magazine, where I build responsive webpages with storytelling elements, design new features, and make frontend enhancements. I am also a **Web Editor** for [The Retrograde](https://retrogradenews.com/), an independently-run student news publication, to maintain and upload content. 
+At my university, I am a **Web Developer** for the [**Indigo Magazine**](https://indigomagazinetx.com/), a student-run creative magazine, where I build responsive webpages with storytelling elements, design new features, and make frontend enhancements. I am also a **Web Editor** for [**The Retrograde**](https://retrogradenews.com/), an independently-run student news publication, to maintain and upload content. 
 
 ## Technical Skills
 - **Languages & Web Technologies**: Python, R, Java, C++, HTML/CSS, JavaScript, TypeScript
